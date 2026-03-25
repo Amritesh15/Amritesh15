@@ -76,20 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritesh15&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritesh15&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Working On
-
-- AI-powered DevOps Assistant  
-- Log anomaly detection system  
-- Distributed systems design  
 
 ---
 

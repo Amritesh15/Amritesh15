@@ -31,15 +31,15 @@
 ## 🔥 Featured Projects
 
 ### 🔔 LifePing  
-> Real-time event discovery and group coordination platform  
+> Emergency QR-based identification system for instant access to critical user information  
 
-- Built a platform where users can create events and others can join their group dynamically  
-- Engineered real-time updates using WebSockets for instant group participation visibility  
-- Designed RESTful APIs for event lifecycle management (create, join, leave, update)  
-- Architected backend for scalability to support concurrent users and live interactions  
-- Extensible design for chat, notifications, and location-based recommendations  
+- Built a platform that generates unique QR codes linked to user emergency profiles  
+- Enabled instant retrieval of critical data (contacts, medical info) by scanning QR codes  
+- Designed RESTful APIs for secure storage and fast access to emergency information  
+- Optimized backend for low-latency responses in time-critical scenarios  
+- Structured system with extensibility for alerts, location sharing, and enhanced security  
 
-**Tech Stack:** Node.js, WebSockets, React, AWS, MongoDB  
+**Tech Stack:** Node.js, Express , React, Next.js, MongoDB  
 
 ---
 

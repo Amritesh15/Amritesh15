@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritesh</h1>
-<h3 align="center">Software Engineer | AI | Cloud | Backend Systems</h3>
+<h3 align="center">Software Engineer | AI | Cloud | Backend Systems | Data</h3>
 
 <p align="center">
   Building scalable systems and real-time + AI-powered applications 🚀
